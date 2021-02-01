@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['mat',['MAT',['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aaf0c2c0ca864067cc6e21a7ea2c1b1fdd',1,'MAT()(Global Namespace)'],['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aaf0c2c0ca864067cc6e21a7ea2c1b1fdd',1,'cv::MAT()'],['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aaf0c2c0ca864067cc6e21a7ea2c1b1fdd',1,'MAT()(Global Namespace)']]],
+  ['mat_5fvector',['MAT_VECTOR',['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aac4f6db46662589f21d34d4abafdf8fb7',1,'MAT_VECTOR()(Global Namespace)'],['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aac4f6db46662589f21d34d4abafdf8fb7',1,'cv::MAT_VECTOR()'],['http://docs.opencv.org/4.0.1/dc/d84/group__core__basic.html#ga8af2ae1e077644d1dd232d29d988b79aac4f6db46662589f21d34d4abafdf8fb7',1,'MAT_VECTOR()(Global Namespace)']]]
+];

@@ -1,0 +1,22 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d7/dfc/group__highgui.html#ga5afdf8410934fd099df85c75b2e0888b" title="cv::namedWindow" alt="" coords="122,5,253,32"/>
+<area shape="rect" id="node3" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d7/dfc/group__highgui.html#gaf78d2155d30b728fc413803745b67a9b" title="cv::createTrackbar" alt="" coords="122,56,253,83"/>
+<area shape="rect" id="node4" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#adff2ea98da45eae0833e73582dd4a660" title="cv::Mat::clone" alt="" coords="629,424,735,451"/>
+<area shape="rect" id="node5" href="$multivariate__normal__model_8cpp.html#a48f7cffc004d092a9b5d07c23b8d95b1" title="Creates a cv::Rect with size and position scaled relative to some input img_size. ..." alt="" coords="111,157,264,184"/>
+<area shape="rect" id="node6" href="$classMultivariateNormalModel.html#a405438481882bcb4961ed66ff225ce57" title="Tell if the model has been trained yet or not. " alt="" coords="104,209,271,250"/>
+<area shape="rect" id="node7" href="$classMultivariateNormalModel.html#aedeb6ebd9f0f6e3c23dc0c9d7d603bf4" title="If the model is already trained, compute transformed Mahalanobis distance image for all pixels in ima..." alt="" coords="319,642,581,683"/>
+<area shape="rect" id="node9" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#adf88c60c5b4980e05bb556080916978b" title="cv::Mat::convertTo" alt="" coords="121,325,253,352"/>
+<area shape="rect" id="node10" href="$multivariate__normal__model_8cpp.html#a00a9a5a936db45c100c2880a008a8fe9" title="Returns a binary image (values 0 or 255) which is the result of thresholding the input_image with the..." alt="" coords="133,275,241,301"/>
+<area shape="rect" id="node12" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d7/dfc/group__highgui.html#ga453d42fe4cb60e5723281a89973ee563" title="cv::imshow" alt="" coords="143,427,232,453"/>
+<area shape="rect" id="node13" href="$multivariate__normal__model_8cpp.html#a89f60e3cd0752085c1b8000e02fbecfb" title="Draw a rectangle on an image. " alt="" coords="106,376,269,403"/>
+<area shape="rect" id="node15" href="$multivariate__normal__model_8cpp.html#a89a3b9baa28a3689294ca96a96076dde" title="Extract training samples from a rectangle within an image. " alt="" coords="108,477,267,504"/>
+<area shape="rect" id="node18" href="$classMultivariateNormalModel.html#a0944613826237d9a3b4383fc31bdcff1" title="Replace a ratio of samples_ with new_samples and retrain the model. " alt="" coords="104,529,271,570"/>
+<area shape="rect" id="node19" href="$classMultivariateNormalModel.html#ad0e9895b27cd1edb6a193bb0ac424880" title="Create a model given some training samples. " alt="" coords="367,577,533,618"/>
+<area shape="rect" id="node21" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d7/dfc/group__highgui.html#ga5628525ad33f52eab17feebcfba38bd7" title="cv::waitKey" alt="" coords="142,696,233,723"/>
+<area shape="rect" id="node8" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#a69ae0402d116fc9c71908d8508dc2f09" title="cv::Mat::ones" alt="" coords="631,641,733,668"/>
+<area shape="rect" id="node11" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57" title="cv::threshold" alt="" coords="401,275,499,301"/>
+<area shape="rect" id="node14" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d6/d6e/group__imgproc__draw.html#ga07d2f74cadcf8e305e810ce8eed13bc9" title="cv::rectangle" alt="" coords="401,373,499,400"/>
+<area shape="rect" id="node16" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#a4eb96e3251417fa88b78e2abd6cfd7d8" title="cv::Mat::reshape" alt="" coords="390,475,510,501"/>
+<area shape="rect" id="node17" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#aaa428c60ccb6d8ea5de18f63dfac8e11" title="cv::Mat::t" alt="" coords="411,525,489,552"/>
+<area shape="rect" id="node20" href="/home/rsm/dev/tek5030/2021/tek5030.github.io/doxygen-tags/opencv.tag$d3/d63/classcv_1_1Mat.html#a2cf9b9acde7a9852542bbc20ef851ed2" title="cv::Mat::eye" alt="" coords="635,584,729,611"/>
+</map>
