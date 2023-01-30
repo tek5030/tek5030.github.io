@@ -1,5 +1,5 @@
-name: TEK5030 test
-description: TEK5030 test description
+name: TEK5030
+description: TEK5030 resource pages
 url: "https://tek5030.github.io"
 markdown: GFM
 highlighter: rouge
