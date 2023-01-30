@@ -37,5 +37,6 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 (A final reminder: always remember that you can use the lab computers prepared for you at ITS, Kjeller.)
 
 - [Getting started on MacOS](/tutorial/macos.md)
+- [Getting started on Windows](/tutorial/windows.md)
 
 - (No further tutorials published, yet 🤷)
