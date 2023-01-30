@@ -1,0 +1,6 @@
+Hello TEK5030
+
+```bash
+cd tek5030
+mkdir labs
+```
