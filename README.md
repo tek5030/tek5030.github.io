@@ -1,6 +1,6 @@
 # TEK5030
 
-Welcome to the resource pages to the cource [TEK5030 - Computer Vision](https://www.uio.no/studier/emner/matnat/its/TEK5030/)!
+Welcome to the resource pages for the cource [TEK5030 - Computer Vision](https://www.uio.no/studier/emner/matnat/its/TEK5030/)!
 
 Here you will find instructions on how to set up your computer with the software that is necessary in order program the lab exercises.
 
@@ -17,7 +17,7 @@ Still, we experience that many students want to run the labs on their own machin
 
 With that out of the way, we can move on.
 
-## Lab setup: The facts
+## Lab setup - current state
 
 - For all the lab exercises, you can choose between Python and C++ as a programming language.
    - Python is usually easier for the unexperienced programmer, both the software setup and the actual programming.
@@ -34,16 +34,12 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 - We provide, without obligations, a suggestion for setup on MacOS and Windows.
 - We aim for a careful transition towards [Visual Studio Code](https://code.visualstudio.com/), a free and lightweight editor that can be installed on most systems and architectures. Besides, we see that VS Code is what you promising youngsters tend to use, and we also want to be cool.
 
-## Setup on MacOS
+## Further reading
 
+(A final reminder: always remember that you can use the lab computers prepared for you at ITS, Kjeller.)
 
+- [Getting started on MacOS](/tutorial/macos.md)
 
+- (No further tutorials published, yet :shrug:)
 
-```bash
-cd tek5030
-mkdir labs
-```
-
-- See [hello mac](/tutorial/macos.md)
-- Setup conan [conan](/tutorial/conan.md)
 

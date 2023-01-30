@@ -1,6 +1,6 @@
 [<-- Home](/)
 
-# TEK 5030 - Getting started on a Mac
+# TEK 5030 - Getting started on MacOS
 
 These instructions have been tested on MacOS Monterey on a MacBook Air 2018.
 
