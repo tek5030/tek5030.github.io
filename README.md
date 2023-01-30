@@ -6,7 +6,7 @@ Here you will find instructions on how to set up your computer with the software
 
 **You are *NOT* required to setup any software on your own computer.**
 
-We have several machines in the lab at ITS, already configured and prepared with all you need to solve the lab exercises. TEK5030 is neither a progamming course, nor a how-to-install-software-on-your-personal-computer course. *Please* don't spend to much time setting up your computer if you run into troubles. Just come to Kjeller and get the most out of your precious time! :slightly_smiling_face:
+We have several machines in the lab at ITS, already configured and prepared with all you need to solve the lab exercises. TEK5030 is neither a progamming course, nor a how-to-install-software-on-your-personal-computer course. *Please* don't spend to much time setting up your computer if you run into troubles. Just come to Kjeller and get the most out of your precious time! 🙂
 
 Still, we experience that many students want to run the labs on their own machine, so we have created these resource pages in order to document
 
@@ -28,7 +28,7 @@ With that out of the way, we can move on.
 
 During "lab 0" this year, we saw that too many students, however, had problems with the virtual machine. As an attempt to amend this, we adapt!
 
-- We introduce [Conan](https://conan.io/) as a dependency manager for the C++ labs. It will help with the installation of required 3rd-party libraries, regardless of operating system :crossed_fingers:
+- We introduce [Conan](https://conan.io/) as a dependency manager for the C++ labs. It will help with the installation of required 3rd-party libraries, regardless of operating system 🤞
 - We provide, without obligations, a suggestion for setup on MacOS and Windows.
 - We aim for a careful transition towards [Visual Studio Code](https://code.visualstudio.com/), a free and lightweight editor that can be installed on most systems and architectures. Besides, we see that VS Code is what you promising youngsters tend to use, and we also want to be cool.
 
@@ -38,6 +38,4 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 
 - [Getting started on MacOS](/tutorial/macos.md)
 
-- (No further tutorials published, yet :shrug:)
-
-
+- (No further tutorials published, yet 🤷)
