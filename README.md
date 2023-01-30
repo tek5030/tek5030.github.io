@@ -4,3 +4,5 @@ Hello TEK5030
 cd tek5030
 mkdir labs
 ```
+
+See [hello mac](/macos.md)
