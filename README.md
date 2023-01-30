@@ -1,5 +1,3 @@
-# TEK5030
-
 Welcome to the resource pages for the cource [TEK5030 - Computer Vision](https://www.uio.no/studier/emner/matnat/its/TEK5030/)!
 
 Here you will find instructions on how to set up your computer with the software that is necessary in order program the lab exercises.
