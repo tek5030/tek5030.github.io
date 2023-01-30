@@ -19,12 +19,12 @@ With that out of the way, we can move on.
 
 - For all the lab exercises, you can choose between Python and C++ as a programming language.
    - Python is usually easier for the unexperienced programmer, both the software setup and the actual programming.
-   - Many students use the opertunity to learn C++, however. Not with the intention of scaring you away from C++, but you should probably expect a steeper learning curve, as the programs may be more difficult to compile and debug.
+   - Many students use the opportunity to learn C++, however. Not with the intention of scaring you away from C++, but you should probably expect a steeper learning curve, as the programs may be more difficult to compile and debug.
    - The labs are independent, so you can choose the programming language for each new lab if you want.
 - Editors:
    - We have documented the labs with tutorials for [PyCharm](https://www.jetbrains.com/pycharm/) for python, and [CLion](https://www.jetbrains.com/clion/) for C++. These are powerful IDEs that help you spend more time on solving the problem, and less time fiddling around with syntax errors and other issues in your code. Both PyCharm and CLion require a licence, but you can either get a free educational licence or use the lab computers which are connected to a licence server.
 - Setup:
-    - As of 2023, the computers on the lab are running [Ubuntu](https://ubuntu.com/desktop) 18.04. That is why we _recommend_ you to use the same, so that we don't have to maintain tutorials for many different versions. That is also why we in earlier semesters have supported a custom Ubuntu ISO disk image which students could run in a VirtualBox virtual machine. The installation of the required software dependencies has been documented in the [tek5030/setup_scripts](https://github.com/tek5030/setup_scripts) repository. The scripts and written documentation in that repository are only targeting Ubuntu 18.04.
+    - As of 2023, the computers on the lab are running [Ubuntu](https://ubuntu.com/desktop) 18.04. That is why we _recommend_ you to use the same, so that we don't have to maintain tutorials for many different versions. That is also why we have provided a custom Ubuntu ISO disk image which students can run in a VirtualBox virtual machine. The installation of the required software dependencies has been documented in the [tek5030/setup_scripts](https://github.com/tek5030/setup_scripts) repository, but the scripts and written documentation in that repository are only targeting Ubuntu 18.04.
 
 During "lab 0" this year, we saw that too many students, however, had problems with the virtual machine. As an attempt to amend this, we adapt!
 
