@@ -38,5 +38,6 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 
 - [Getting started on MacOS](/tutorial/macos.md)
 - [Getting started on Windows](/tutorial/windows.md)
+- [Getting started with Conan on Ubuntu (Linux)](/tutorial/macos.md)
 
 - (No further tutorials published, yet 🤷)
