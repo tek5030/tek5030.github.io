@@ -19,7 +19,7 @@ It will simplify your life as a programmer quite significantly. Head over to htt
 
 - Install Conan (for C++)
 
-   [Conan](https://conan.io) is a free and open source C++ package manager that we will use to maintain dependencies for our projects. Conan can be utilized on both Linux, Mac and Windows. Conan is created with Python, so we will install Python as well. In addition, it's convenient to have installed in case you want to solve the labs using Python. There is no downside to reading the  ["getting started"](https://docs.conan.io/en/latest/getting_started.html) section of the conan documentation, so please take a look.
+   [Conan](https://conan.io) is a free and open source C++ package manager that we will use to maintain dependencies for our projects. Conan can be utilized on both Linux, Mac and Windows. Conan is created with Python, so we will install Python as well. In any way, it's convenient to have Python installed in case you want to solve the labs using Python. There is no downside to reading the  ["getting started"](https://docs.conan.io/en/latest/getting_started.html) section of the conan documentation, so please take a look.
    If you intend to only program the labs using Python, you can skip the installation of conan.
    
    (Conan will deprecate https://github.com/tek5030/setup_scripts, which is a set of helper scripts for system wide installation of C++ dependencies on Ubuntu 18.04).
