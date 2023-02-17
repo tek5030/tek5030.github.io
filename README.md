@@ -38,7 +38,7 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 
 - [Getting started on MacOS](/tutorial/macos.md)
 - [Getting started on Windows](/tutorial/windows.md)
-- [Getting started with Conan on Ubuntu (Linux)](/tutorial/macos.md)
+- [Getting started with Conan on Ubuntu (Linux)](/tutorial/conan.md)
 
 - (No further tutorials published, yet 🤷)
 - [TEK5030 GitHub repositories](https://github.com/tek5030/)
