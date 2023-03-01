@@ -20,5 +20,5 @@ python3.8 -m venv venv
 source venv/bin/activate.
 # expect to see (venv) at the beginning of your prompt.
 pip install --upgrade pip  # <-- Important step for Ubuntu 18.04!
-pip install -r requirements.txt
+pip install --requirement requirements.txt
 ```
