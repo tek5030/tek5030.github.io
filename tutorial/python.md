@@ -1,3 +1,5 @@
+[<-- Home](/)
+
 # Python setup for Ubuntu
 Installing the basic Python tools is straight forward in Ubuntu.
 
@@ -22,3 +24,7 @@ source venv/bin/activate.
 pip install -U pip  # <-- Important step for Ubuntu 18.04!
 pip install -r requirements.txt
 ```
+
+---
+
+[<-- Home](/)
