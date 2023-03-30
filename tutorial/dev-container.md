@@ -59,3 +59,19 @@ That's it! (?)
 [<-- Home](/)
 
 [video]: https://www.jetbrains.com/help/clion/clion-toolchains-in-docker.html
+
+<!--
+```bash
+docker run -it --rm \
+    -v /dev:/dev \
+    -v ${PWD}:/tmp/solution-stereo \
+    -w /tmp/solution-stereo/cmake-build-release-docker \
+    --device-cgroup-rule "c 81:* rmw" \
+    --device-cgroup-rule "c 189:* rmw" \
+    -e DISPLAY="${DISPLAY}" \
+    -e XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR}" \
+    -v ${XDG_RUNTIME_DIR}:${XDG_RUNTIME_DIR} \
+    -v /tmp/.X11-unix:/tmp/.X11-unix \
+    tek5030/devcontainer ./lab_7_stereo
+```
+-->
