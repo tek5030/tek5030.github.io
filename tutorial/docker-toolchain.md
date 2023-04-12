@@ -1,9 +1,8 @@
 [<-- Home](/)
 
-# TEK 5030 - Getting started with dev containers
+# TEK 5030 - Getting started with Docker toolchain
 
 This is a quick and dirty howto for getting started with the _Docker toolchain_ in CLion. YMMV!
-
 
 ### Prerequisites
 
@@ -16,12 +15,13 @@ This is a quick and dirty howto for getting started with the _Docker toolchain_ 
 - Pull the tek5030 docker image  
 
   ```bash
-  docker pull tek5030/dev-container:latest
+  docker pull tek5030/devcontainer:latest
   ```
 
 ### Setup the toolchain
 
-- Create the toolchain as described in the [video].
+- Create the toolchain as described in the [video].   
+Use `tek5030/devcontainer:latest` as the Docker image.
 
 - Create the Docker CMake configuration as described in the [video].
 
@@ -42,7 +42,7 @@ docker run -it --rm \
     -e XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR}" \
     -v ${XDG_RUNTIME_DIR}:${XDG_RUNTIME_DIR} \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
-    tek5030/dev-container:latest ./lab_7_stereo
+    tek5030/devcontainer:latest ./lab_7_stereo
 ```
 
 
