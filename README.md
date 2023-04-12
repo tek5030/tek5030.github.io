@@ -41,5 +41,6 @@ During "lab 0" this year, we saw that too many students, however, had problems w
 - [Getting started with Conan on Ubuntu (Linux)](/tutorial/conan.md)
 - [Getting started with Python on Ubuntu (Linux)](/tutorial/python.md)
 - [Getting started with Docker toolchain in CLion](/tutorial/docker-toolchain.md)
+- [Getting started with Devcontainers in VS Code](/tutorial/devcontainer.md)
 - No further tutorials published, yet 🤷
 - [TEK5030 GitHub repositories](https://github.com/tek5030/)
