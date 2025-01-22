@@ -32,8 +32,10 @@ With that out of the way, we can move on.
      These are powerful IDEs that help you spend more time on solving the problem,
      and less time fiddling around with syntax errors and other issues in your code.
      Both PyCharm and CLion require a licence, but you can either get a free educational licence or use the lab computers which are connected to a licence server.
+   - Many students are used to [Visual Studio Code](https://code.visualstudio.com/), a free and lightweight editor that can be installed on most systems and architectures.
+     If you are familiar with vscode and want to stick to it, it should be fine.
 - Setup:
-    - As of 2024, the computers on the lab are running [Ubuntu](https://ubuntu.com/desktop) 22.04.
+    - As of 2025, the computers on the lab are running [Ubuntu](https://ubuntu.com/desktop) 22.04.
     That is why we _recommend_ you to use the same, so that we don't have to maintain tutorials for many different versions.
     The installation of the required software dependencies has been documented in the [tek5030/setup_scripts](https://github.com/tek5030/setup_scripts) repository. The scripts and written documentation in that repository are only targeting Ubuntu 22.04.
 
