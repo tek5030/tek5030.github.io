@@ -58,9 +58,12 @@ You can kill text, and it enters that ring. The ring can be filled with a number
 Any number of consecutive kills save all of the killed text together, so that when you yank it back, you get it all.
 - `M-y` rotate the kill ring and yank the top.
 
-### Uppercase lowercase
+### Transform
 - `M-u` uppercase word
 - `M-l` lowercase word
+- `C-t` transpose-chars
+- `M-t` transpose-words
+- `M-c` capitalize-word
 
 ### Freeze output
 Sometimes, when compiling or whatever, a lot of output may be written to the terminal. Sometimes, you want to freeze the output so that you can examine it closer.
@@ -90,6 +93,7 @@ What you type enters the command history. You can view the history in the file `
 - `C-l` clear the screen, reprinting the current line at the top
 - `C-c` cancel almost anything
 - `C-j` you can use it as <kbd>Enter</kbd>
+
 
 
 ### Jobs
